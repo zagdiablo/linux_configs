@@ -1,0 +1,27 @@
+/sys/devices/platform/coretemp.0/hwmon/hwmon4/temp3_input
+/sys/devices/platform/coretemp.0/hwmon/hwmon4/temp1_input
+/sys/devices/platform/coretemp.0/hwmon/hwmon4/temp2_input
+/sys/devices/virtual/thermal/thermal_zone0/hwmon0/temp1_input
+
+deb:
+	curl
+	git
+	btop
+	build-essential 
+	thinkfan
+	lm-sensors
+	tilix
+	micro
+	steam-devices
+	libsecret-1-0
+	git-credential-manager
+	podman
+	distrobox
+	flatpak 
+	gnome-software-plugin-flatpak
+
+flatpak:
+	obisidan
+	brave
+	steam
+	prism-launcher
