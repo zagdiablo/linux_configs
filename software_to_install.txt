@@ -19,9 +19,11 @@ deb:
 	distrobox
 	flatpak 
 	gnome-software-plugin-flatpak
+	steam
+	minecraft-launcher (optional)
+	java-common
 
 flatpak:
 	obisidan
 	brave
-	steam
 	prism-launcher
